@@ -1,0 +1,9 @@
+# first file created
+
+void main(void)
+{
+        int x = 5 , y = 2 ;
+        int z = x + y ;
+        printf("%d",z);
+	
+} 
